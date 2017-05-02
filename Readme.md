@@ -10,10 +10,15 @@ The paper should cover an in-depth review of your selected topic, which should m
 
 ## Rubric for grading:
 
-|| 1 | 2 | 3
+   |   | 1 | 2 | 3
 ---|---|---|---|---
 Review | Coverage | Missing important pieces | Good | Comprehensive
 | Insight | None | Some | Original
 Contribution | Novelty | Already done | Similar to previous work | Novel 
 | Scope		| Incremental | Reasonable | Significant
 | Correctness | Wrong | Mostly correct | Entirely correct
+
+## Dates
+5/17: 10-minute presentation of your proposal in class (email me slides or link to slides before class)
+
+5/24: Paper due 11:59pm
